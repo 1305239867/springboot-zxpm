@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="springboot-zxpm:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="springboot-zxpm.war">
+      <element id="artifact" artifact-name="springboot-zxpm:war exploded" />
+    </root>
+  </artifact>
+</component>
